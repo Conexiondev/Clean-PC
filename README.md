@@ -27,7 +27,7 @@ Puedes escoger entre 7 opciones de limpieza solo oprimiendo el numero que escoja
 8. Salir 
 
 ----------------------------------------
-## Propiety: Absolutiion
-## Created:  AAAQ
+## Propiety: Conexion.Dev
+## Created:  Anatarqu
 ## Version: 0.4.22
 --------------------------------------
